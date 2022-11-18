@@ -11,3 +11,10 @@ This program works when the c program present on the QT Py is integrated with a 
 A C program contains 2 functions to read and replay the data sequence, which are called when it gets "r" and "p" as input, respectively.
 
 A Python program reads serial input from the microcontroller (button press sequence) and saves it to a text file. Depending upon the input, the python program write "r" and "p" onto the com port to select read and replay the data sequence option.
+
+## TXT File:
+![txt file](https://user-images.githubusercontent.com/73771085/202697878-e9620ea1-ce0a-4147-a04f-72b839e1320f.jpeg)
+
+
+## Terminal:
+![terminal](https://user-images.githubusercontent.com/73771085/202697849-4c1c3e3d-b0bf-4ef0-bcbd-ac4bcdc91d9f.jpeg)
