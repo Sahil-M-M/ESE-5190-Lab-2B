@@ -2,6 +2,10 @@
       LinkedIn: https://www.linkedin.com/in/sahil-m-39a2671b0
       Tested on:  HP Probook 650 G1 (15.6-inch, 2014), Window 10
 
+### TODO:
+
+Toggle the Qt Py's Neopixel LED when the BOOT button is pressed, using only direct register reads to access the boot button status. You may use the SDK to initialize the board and the pins, and the WS2812 example code to toggle the Neopixel. 
+
 ### Registers Video
 
 The following demonstration video shows reading from a register directly. In this program the neopixel LED blinks, if the on-board BOOT button is pressed.
