@@ -2,6 +2,8 @@
       LinkedIn: https://www.linkedin.com/in/sahil-m-39a2671b0
       Tested on:  HP Probook 650 G1 (15.6-inch, 2014), Window 10
 
+# 05 I2C Traffic:
+
 ### TODO:
 
 - use your Lab 1 firefly code to generate ADPS9960 I2C traffic and display it on a lab oscilloscope
