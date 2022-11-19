@@ -2,6 +2,8 @@
       LinkedIn: https://www.linkedin.com/in/sahil-m-39a2671b0
       Tested on:  HP Probook 650 G1 (15.6-inch, 2014), Window 10
       
+# 06 Pioscope:
+
 ## TODO:
 
 - modify the PIO/DMA logic analyzer example to record a timestamped trace of an RP2040-ADPS9960 exchange while the BOOT button is pressed
