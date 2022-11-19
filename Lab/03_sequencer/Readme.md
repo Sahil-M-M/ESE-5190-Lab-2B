@@ -2,6 +2,8 @@
       LinkedIn: https://www.linkedin.com/in/sahil-m-39a2671b0
       Tested on:  HP Probook 650 G1 (15.6-inch, 2014), Window 10
 
+# 03 Sequencer:
+
 ### TODO:
 
 Create a 'sequencer' that allows you to record BOOT button presses and play them on the Neopixel, and also play a sequence of read/write commands. You should be able to:
